@@ -53,7 +53,6 @@ Esta visualización demuestra la interacción crítica entre el género y la cla
 
 ## 📂 Estructura del Repositorio
 
-
 .
 ├── titanic_analysis.ipynb         # 📓 Notebook con todo el código del análisis y modelado.
 ├── informe_proyecto_titanic.pdf   # 📄 Informe detallado del proyecto.
