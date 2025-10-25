@@ -30,7 +30,7 @@ Esta gráfica muestra qué variables consideró más importantes el modelo Rando
 #### Tasa de Supervivencia por Sexo y Clase Social
 Esta visualización demuestra la interacción crítica entre el género y la clase social. Mientras que las mujeres de 1ª y 2ª clase tenían una supervivencia superior al 90%, las de 3ª clase apenas alcanzaban el 50%.
 
-![Supervivencia por Clase y Sexo](report/supervivencia.png)
+![Supervivencia por Clase y Sexo](report/tasa.png)
 
 ## ⚙️ Características Técnicas
 
