@@ -25,14 +25,12 @@ El análisis revela una clara jerarquía de supervivencia, donde el destino de u
 #### Importancia de las Características según el Modelo
 Esta gráfica muestra qué variables consideró más importantes el modelo Random Forest para tomar sus decisiones. El sexo (`Sex_male`) es, con diferencia, el factor más influyente.
 
-*(**Instrucción:** Haz una captura de pantalla de tu gráfico, súbela a tu repositorio y reemplaza el texto de abajo con el enlace correcto)*
-`![Importancia de Características](nombre_de_tu_grafico_importancia.png)`
+![Importancia de Características](report/importancia.png)
 
 #### Tasa de Supervivencia por Sexo y Clase Social
 Esta visualización demuestra la interacción crítica entre el género y la clase social. Mientras que las mujeres de 1ª y 2ª clase tenían una supervivencia superior al 90%, las de 3ª clase apenas alcanzaban el 50%.
 
-*(**Instrucción:** Reemplaza con tu otra imagen)*
-`![Supervivencia por Clase y Sexo](nombre_de_tu_grafico_supervivencia.png)`
+![Supervivencia por Clase y Sexo](report/supervivencia.png)
 
 ## ⚙️ Características Técnicas
 
